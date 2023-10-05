@@ -22,7 +22,7 @@ ExpenseTracker is a simple React application that helps you keep track of your e
 
 ## Demo
 
-You can try out the ExpenseTracker application by visiting the following [demo link].
+You can try out the ExpenseTracker application by visiting the following [demo link] https://l3jvsg-3000.csb.app/.
 
 ## Getting Started
 
